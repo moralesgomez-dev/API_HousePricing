@@ -2,7 +2,7 @@
 
 API REST for predicting house prices using Machine Learning.
 
-**API en vivo:** [https://tu-api.onrender.com](https://tu-api.onrender.com) _(actualizar después del deploy)_
+**API** [https://api-housepricing.onrender.com](https://api-housepricing.onrender.com)
 
 ---
 
@@ -10,7 +10,7 @@ API REST for predicting house prices using Machine Learning.
 
 Test my API quickly:
 
-👉 **[https://tu-api.onrender.com/docs](https://tu-api.onrender.com/docs)** _(actualizar después del deploy)_
+👉 **[https://api-housepricing.onrender.com/docs](https://api-housepricing.onrender.com/docs)**
 
 ---
 
